@@ -8,3 +8,6 @@ int main()
   std::cout<<"Hello World!"<<std::endl;
 }
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
